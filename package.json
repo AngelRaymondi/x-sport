@@ -1,0 +1,21 @@
+{
+     "name": "x-sport",
+     "version": "1.0.0",
+     "description": "Analizador de eventos de deportes provenientes de Flashscore",
+     "main": "dist/index.js",
+     "scripts": {
+          "start": "node dist/index.js",
+          "dev": "ts-node src/index.ts"
+     },
+     "keywords": [],
+     "author": "DevAngelRD",
+     "license": "MIT",
+     "dependencies": {
+          "@types/node": "^18.16.3",
+          "puppeteer": "^19.11.1",
+          "typescript": "^5.0.4"
+     },
+     "engines": {
+          "node": "16.16.0"
+     }
+}
