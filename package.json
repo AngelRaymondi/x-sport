@@ -11,7 +11,12 @@
      "author": "DevAngelRD",
      "license": "MIT",
      "dependencies": {
+          "@types/cheerio": "^0.22.31",
+          "@types/cli-color": "^2.0.2",
           "@types/node": "^18.16.3",
+          "axios": "^1.4.0",
+          "cheerio": "^1.0.0-rc.12",
+          "cli-color": "^2.0.3",
           "puppeteer": "^19.11.1",
           "typescript": "^5.0.4"
      },
